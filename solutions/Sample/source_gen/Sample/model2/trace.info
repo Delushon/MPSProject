@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:e21f95d4-52fa-4e68-9078-9f3da363fb03(Sample.model2)/4440824286303569679">
+    <file name="Foo.java">
+      <unit id="4440824286303569679" at="6,0,8,0" name="Sample.model2.Foo" />
+    </file>
+  </root>
+</debug-info>
+

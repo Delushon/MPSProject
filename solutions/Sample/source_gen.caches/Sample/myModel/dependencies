@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="Sample.myModel.Class1" />
+  <dependency className="Sample.myModel.Class2" />
+  <dependency className="Sample.myModel.Demo">
+    <classNode dependClassName="Sample.model2.Foo" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+  </dependency>
+</dependenciesRoot>
+
